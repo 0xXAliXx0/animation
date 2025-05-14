@@ -1,8 +1,14 @@
+infinite loop animation
+
+![swappy-20250514-163718](https://github.com/user-attachments/assets/4860e549-cc2f-4303-8a85-1e3f7ef9259b)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
+
 
 ```bash
 npm run dev
